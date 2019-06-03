@@ -1,6 +1,8 @@
 # Certamen2Radio
 Certamen 2 de Diseño de apliaciones DUOC 2019, Trabajo a Pedido por radio muy famosa. 
 
+# Se enviaron archivos separados y un archivo rar en caso de error o mal subida de archivos. 
+
 # Requisitos
 Composer, Mysql o MariaDB para los servicios de SQL, todo instalado, al igual que el WAMP o XAMP en caso
 de que sea necesario cambiar puertos para el correcto funcionamiento. 
@@ -19,6 +21,9 @@ Arreglar los puertos y parametros en archivo DATABASE.php en carpetas de archivo
 
 # Paso Final
 por lo general el enlace siempre es localhost:8080/radio para abrir el proyecto con todo ya configurado.
+
+# Problemas
+Poco y nulo uso de JSON o AJAX 
 
 # Creador
 Pablo Saez C.
