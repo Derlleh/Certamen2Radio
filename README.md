@@ -2,6 +2,7 @@
 Certamen 2 de Diseño de apliaciones DUOC 2019, Trabajo a Pedido por radio muy famosa. 
 
 # Se enviaron archivos separados y un archivo rar en caso de error o mal subida de archivos. 
+# Navegador recomendado: Internet explorer
 
 # Requisitos
 Composer, Mysql o MariaDB para los servicios de SQL, todo instalado, al igual que el WAMP o XAMP en caso
