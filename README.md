@@ -1,7 +1,7 @@
 # Certamen2Radio
 Certamen 2 de Diseño de apliaciones DUOC 2019, Trabajo a Pedido por radio muy famosa. 
 
-# Se enviaron archivos separados y un archivo rar en caso de error o mal subida de archivos. 
+# Se enviaron archivos separados y un archivo tipo .rar en caso de error o mal subida de archivos. 
 # Navegador recomendado: Internet explorer
 
 # Requisitos
@@ -24,7 +24,8 @@ Arreglar los puertos y parametros en archivo DATABASE.php en carpetas de archivo
 por lo general el enlace siempre es localhost:8080/radio para abrir el proyecto con todo ya configurado.
 
 # Problemas
-Poco y nulo uso de JSON o AJAX 
+Poco y nulo uso de JSON o AJAX, la manera en que se maneja la pagina es dificil, dado que se hizo de una manera muy 
+rebuscada sin tomar en cuenta lo necesario para esto. 
 
 # Creador
 Pablo Saez C.
