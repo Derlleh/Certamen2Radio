@@ -1,4 +1,4 @@
-# Certamen2Radio
+# Certamen2DAI
 Certamen 2 de Diseño de apliaciones DUOC 2019, Trabajo a Pedido por radio muy famosa. 
 
 # Se enviaron archivos separados y un archivo tipo .rar en caso de error o mal subida de archivos. 
